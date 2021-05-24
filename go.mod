@@ -30,3 +30,6 @@ require (
 	google.golang.org/genproto v0.0.0-20201214200347-8c77b98c765d // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
+
+replace github.com/cgroschupp/go-client-confluent-cloud v0.0.0-20201105075001-2e15b5846d7e => github.com/aliellis/go-client-confluent-cloud v0.0.0-20210524101102-0082eda0351a
+
